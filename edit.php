@@ -2,6 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
 	<!--ini tambahan-->
+	<!--ini tambahan 2-->
+	<!--ini tambahan 3-->
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
